@@ -1,0 +1,6 @@
+use_gpu: true
+log_iter: 10
+save_dir: output
+snapshot_epoch: 5
+print_flops: false
+
